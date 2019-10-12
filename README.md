@@ -1,117 +1,907 @@
-# Airtest &middot; [![Build status](https://travis-ci.org/AirtestProject/Airtest.svg?branch=master)](https://travis-ci.org/AirtestProject/Airtest)
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+[![depSkip to content
+Search or jump to…
 
-**Cross-Platform UI Automation Framework for Games and Apps**
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@seetha2001 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
-**跨平台的UI自动化框架，适用于游戏和App** （[中文版点这里](./README_zh.md)）
+
+475
+10
+384129jdalrymple/node-gitlab
+ Code Issues 16 Pull requests 7 Projects 0 Wiki Security Insights
+You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+node-gitlab
+/
+README.md
+ 
+
+1
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+2
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+3
+[![dependencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+4
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+5
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+6
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+7
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+8
+[![Coverage](https://img.shields.ioSkip to content
+9
+Search or jump to…
+10
+​
+11
+Pull requests
+12
+Issues
+13
+Marketplace
+14
+Explore
+15
+ 
+16
+@seetha2001 
+17
+Learn Git and GitHub without any code!
+18
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+19
+​
+20
+​
+21
+475
+22
+10
+23
+384129jdalrymple/node-gitlab
+24
+ Code Issues 16 Pull requests 7 Projects 0 Wiki Security Insights
+25
+You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+26
+node-gitlab
+27
+/
+28
+README.md
+29
+ 
+30
+​
+31
+1
+32
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+33
+2
+34
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+35
+3
+36
+[![dependencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+37
+4
+38
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+39
+5
+40
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+41
+6
+42
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+43
+7
+44
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+45
+8
+46
+[![Coverage](https://img.shields.io/codecov/c/github/jdalrymple/node-gitlab/master.svg)](https://codecov.io/gh/jdalrymple/node-gitlab)
+47
+9
+48
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+49
+10
+50
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+51
+11
+52
+[![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)
+53
+12
+54
+[![Install Size](https://packagephobia.now.sh/badge?p=gitlab)](https://packagephobia.now.sh/result?p=gitlab)
+55
+13
+56
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jdalrymple/node-gitlab/blob/master/LICENSE.md)
+57
+14
+58
+•
+59
+15
+@seetha2001
+Propose file change
+Commit summary
+Update README.md
+Optional extended description
+Add an optional extended description…
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+endencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+[![Coverage](https://img.shields.ioSkip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@seetha2001 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
 
-![image](./demo.gif)
+475
+10
+384129jdalrymple/node-gitlab
+ Code Issues 16 Pull requests 7 Projects 0 Wiki Security Insights
+You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+node-gitlab
+/
+README.md
+ 
 
+1
+[![npm @latest](https://img.shields.io/npm/v/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+2
+[![npm downloads](https://img.shields.io/npm/dt/gitlab.svg)](https://www.npmjs.com/package/gitlab)
+3
+[![dependencies Status](https://david-dm.org/jdalrymple/node-gitlab/status.svg)](https://david-dm.org/jdalrymple/node-gitlab)
+4
+[![devDependencies Status](https://david-dm.org/jdalrymple/node-gitlab/dev-status.svg)](https://david-dm.org/jdalrymple/node-gitlab?type=dev)
+5
+[![Greenkeeper badge](https://badges.greenkeeper.io/jdalrymple/node-gitlab.svg)](https://greenkeeper.io/)
+6
+[![Code Climate](https://codeclimate.com/github/jdalrymple/node-gitlab/badges/gpa.svg)](https://codeclimate.com/github/jdalrymple/node-gitlab)
+7
+[![Build Status](https://img.shields.io/travis/jdalrymple/node-gitlab/master.svg)](https://travis-ci.org/jdalrymple/node-gitlab)
+8
+[![Coverage](https://img.shields.io/codecov/c/github/jdalrymple/node-gitlab/master.svg)](https://codecov.io/gh/jdalrymple/node-gitlab)
+9
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+10
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+11
+[![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)
+12
+[![Install Size](https://packagephobia.now.sh/badge?p=gitlab)](https://packagephobia.now.sh/result?p=gitlab)
+13
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jdalrymple/node-gitlab/blob/master/LICENSE.md)
+14
+​
+15
+# node-gitlab
+16
+​
+17
+🤖 [GitLab](https://github.com/gitlabhq/gitlabhq) API NodeJS library with full support of all the [Gitlab API](https://github.com/gitlabhq/gitlabhq/tree/master/doc/api) services.
+18
+​
+19
+## Table of Contents
+20
+​
+21
+- [Install](#install)
+22
+- [Getting Started](#getting-started)
+23
+  - [CLI Support](#cli-support)
+24
+- [Docs](#docs)
+25
+  - [Supported APIs](#supported-apis)
+26
+  - [Bundle Imports](#bundle-imports)
+27
+  - [Examples](#examples)
+28
+  - [Pagination](#pagination)
+29
+  - [Sudo](#sudo)
+30
+  - [Custom Request Libraries](#custom-request-libraries)
+31
+  - [Misc](#misc)
+32
+- [Development](#development)
+33
+- [Testing](#testing)
+34
+- [Contributors](#contributors)
+35
+- [License](#licence)
+36
+- [Changelog](#changelog)
+37
+​
+38
+## Install
+39
+​
+40
+```bash
+41
+# Install from npm
+42
+npm install gitlab
+43
+```
+44
+​
+45
+## Getting Started
+46
+​
+47
+Instantiate the library using a basic token created in your [Gitlab Profile](https://docs.gitlab.com/ce/user/profile/personal_access_tokens.html)
+48
+​
+49
+```javascript
+50
+// ES6 (>=node 10.16.0 LTS)
+51
+import { Gitlab } from 'gitlab'; // All Resources
+@seetha2001
+Propose file change
+Commit summary
+Update README.md
+Optional extended description
+Add an optional extended description…
+ 
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+/codecov/c/github/jdalrymple/node-gitlab/master.svg)](https://codecov.io/gh/jdalrymple/node-gitlab)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)
+[![Install Size](https://packagephobia.now.sh/badge?p=gitlab)](https://packagephobia.now.sh/result?p=gitlab)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jdalrymple/node-gitlab/blob/master/LICENSE.md)
 
-## Features
+# node-gitlab
 
-*   **Write Once, Run Anywhere:** Airtest provides cross-platform APIs, including app installation, simulated input, assertion and so forth. Airtest uses image recognition technology to locate UI elements, so that you can automate games and apps without injecting any code. 
+🤖 [GitLab](https://github.com/gitlabhq/gitlabhq) API NodeJS library with full support of all the [Gitlab API](https://github.com/gitlabhq/gitlabhq/tree/master/doc/api) services.
 
-*   **Fully Scalable:** Airtest cases can be easily run on large device farms, using commandline or python API. HTML reports with detailed info and screen recording allow you to quickly locate failure points. NetEase builds [Airlab](https://airlab.163.com/) on top of Airtest Project.
+## Table of Contents
 
-*   **AirtestIDE:** AirtestIDE is an out of the box GUI tool that helps to create and run cases in a user-friendly way. AirtestIDE supports a complete automation workflow: ``create -> run -> report``.
+- [Install](#install)
+- [Getting Started](#getting-started)
+  - [CLI Support](#cli-support)
+- [Docs](#docs)
+  - [Supported APIs](#supported-apis)
+  - [Bundle Imports](#bundle-imports)
+  - [Examples](#examples)
+  - [Pagination](#pagination)
+  - [Sudo](#sudo)
+  - [Custom Request Libraries](#custom-request-libraries)
+  - [Misc](#misc)
+- [Development](#development)
+- [Testing](#testing)
+- [Contributors](#contributors)
+- [License](#licence)
+- [Changelog](#changelog)
 
-*   **Poco:** [Poco](https://github.com/AirtestProject/Poco) adds the ability to directly access object(UI widget) hierarchy across the major platforms and game engines. it allows writing instructions in Python, to achieve more advanced automation.
+## Install
 
-Get started from [airtest homepage](http://airtest.netease.com/)
-
-#### [Supported Platforms](./docs/wiki/platforms.md)
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-[Android](http://airtest.netease.com/docs/en/1_quick_start/2_test_with_Android_device.html) |[Emulator](./docs/wiki/platforms.md#android-emulator) |[iOS](https://github.com/AirtestProject/iOS-Tagent)|[Windows](http://airtest.netease.com/docs/en/1_quick_start/4_get_started_with_Windows_test.html)|[Unity](http://airtest.netease.com/docs/en/1_quick_start/1_how_to_write_the_first_script_for_your_game.html)|Cocos2dx|Egret|[WeChat](http://airtest.netease.com/blog/tutorial/WechatSmallProgram/)| [web](http://airtest.netease.com/docs/en/1_quick_start/5_get_started_with_web_test.html)
-
-## Installation
-
-Use `pip` to install Airtest python library. 
-
-```Shell
-pip install -U airtest
+```bash
+# Install from npm
+npm install gitlab
 ```
 
-On MacOS/Linux platform, you need to grant adb execute permission.
+## Getting Started
 
-```Shell
-# for mac
-cd {your_python_path}/site-packages/airtest/core/android/static/adb/mac
-# for linux
-# cd {your_python_path}/site-packages/airtest/core/android/static/adb/linux
-chmod +x adb
+Instantiate the library using a basic token created in your [Gitlab Profile](https://docs.gitlab.com/ce/user/profile/personal_access_tokens.html)
+
+```javascript
+// ES6 (>=node 10.16.0 LTS)
+import { Gitlab } from 'gitlab'; // All Resources
+import { Projects } from 'gitlab'; // Just the Project Resource
+//...etc
+
+// ES5, assuming native or polyfilled Promise is available
+const { Gitlab } = require('gitlab');
 ```
 
-Download AirtestIDE from our [homepage](http://airtest.netease.com/) if you need to use the GUI tool.
-
-
-## Documentation
-
-You can find the complete Airtest documentation on [readthedocs](http://airtest.readthedocs.io/).
-
-
-## Examples
-
-Airtest aims at providing platform independent API, so that you can write automated cases once and run it on multiple devices and platforms.
-
-1. Using [connect_device](http://airtest.readthedocs.io/en/latest/README_MORE.html#connect-device) API you can connect to any android/iOS device or windows application.
-1. Then perform [simulated input](http://airtest.readthedocs.io/en/latest/README_MORE.html#simulate-input) to automate your game or app.
-1. **DO NOT** forget to [make assertions](http://airtest.readthedocs.io/en/latest/README_MORE.html#make-assertion) of the expected result. 
-
-```Python
-from airtest.core.api import *
-
-# connect an android phone with adb
-init_device("Android")
-# or use connect_device api
-# connect_device("Android:///")
-
-install("path/to/your/apk")
-start_app("package_name_of_your_apk")
-touch(Template("image_of_a_button.png"))
-swipe(Template("slide_start.png"), Template("slide_end.png"))
-assert_exists(Template("success.png"))
-keyevent("BACK")
-home()
-uninstall("package_name_of_your_apk")
+```javascript
+const api = new Gitlab({
+  token: 'personaltoken',
+});
 ```
 
-For more detailed info, please refer to [Airtest Python API reference](http://airtest.readthedocs.io/en/latest/all_module/airtest.core.api.html) or take a look at [API code](./airtest/core/api.py)
+Available instantiating options:
 
+| Name                 | Optional | Default                                               | Description                                                     |
+| -------------------- | -------- | ----------------------------------------------------- | --------------------------------------------------------------- |
+| `host`               | Yes      | `https://gitlab.com`                                  | Gitlab Instance Host URL                                        |
+| `token`              | No\*     | N/A                                                   | Personal Token. Required (one of the three tokens are required) |
+| `oauthToken`         | No\*     | N/A                                                   | OAuth Token. Required (one of the three tokens are required)    |
+| `jobToken`           | No\*     | N/A                                                   | CI Job Token. Required (one of the three tokens are required)   |
+| `rejectUnauthorized` | Yes      | `false`                                               | Http Certificate setting                                        |
+| `sudo`               | Yes      | `false`                                               | Sudo query parameter                                            |
+| `version`            | Yes      | `v4`                                                  | API Version ID                                                  |
+| `camelize`           | Yes      | `false`                                               | Response Key Camelize. Camelizes all response body keys         |
+| `requester`          | Yes      | [KyRequester.ts](./src/infrastructure/KyRequester.ts) | Request Library Wrapper. Currently wraps Ky.                    |
+| `requestTimeout`     | Yes      | `300000`                                              | Request Library Timeout in ms                                   |
 
-## Running ``.air`` cases from CLI
+### CLI Support
 
-Using AirtestIDE, you can easily create automated cases as ``.air`` directories.
-Airtest CLI provides the possibility to execute cases on different host machine and target device platforms without using AirtestIDE itself.
+The CLI export functions in a similar manner, following the pattern:
 
-```Shell
-# run cases targeting on Android phone connected to your host machine via ADB
-airtest run "path to your .air dir" --device Android:///
-
-# run cases targeting on Windows application whose title matches Unity.*
-airtest run "path to your .air dir" --device "Windows:///?title_re=Unity.*"
-
-# generate HTML report after running cases
-airtest report "path to your .air dir"
-
-# or use as python module
-python -m airtest run "path to your .air dir" --device Android:///
+```bash
+gitlab [service name] [method name] --arg1 --arg2 --arg3
 ```
 
-Try running provided example case: [``airtest/playground/test_blackjack.air``](./playground/test_blackjack.air) and see [Usage of CLI](http://airtest.readthedocs.io/en/latest/README_MORE.html#running-air-from-cli). Here is a [multi-device runner sample](https://github.com/AirtestProject/multi-device-runner).
+Where `service name` is any of the supported API names, `method name` is any of the supported commands on that API service (See source for exceptions, but generally all, show, remove, update) and `--arg1...--arg3` are any of the arguments you would normally supply to the function. The names of the args should match the names in the method headers **EXCEPT** all the optional arguments who's names should match what the GitLab API docs request.
 
+There is one small exception with the instantiating arguments however, which must be supplied using a `gl` prefix. ie.
 
-## Contribution
+```bash
+# To get all the projects
+gitlab projects all --gl-token="personaltoken"
 
-Pull requests are very welcome. [Help needed here](./docs/wiki/platforms.md#pull-request-guide)
+# To get a project with id = 2
+gitlab projects show --gl-token="personaltoken" --projectId=2
+```
 
+To reduce the annoyance of having to pass those configuration properties each time, it is also possible to pass the token and host information through environment variables in the form of `GITLAB_[option name]` ie:
 
-## Thanks
+```bash
+GITLAB_HOST=http://example.com
+GITLAB_TOKEN=personaltoken
+```
 
-Thanks for all these great works that make this project better.
+This could be set globally or using a [.env](https://github.com/motdotla/dotenv#readme) file in the project folder.
 
-- [stf](https://github.com/openstf)
-- [atx](https://github.com/NetEaseGame/ATX)
-- [pywinauto](https://github.com/pywinauto/pywinauto)
+## Docs
+
+Although there are the [official docs](https://github.com/gitlabhq/gitlabhq/tree/master/doc/api) for the API, there are some extra goodies offered by this package! After the 3.0.0 release, the next large project will be putting together proper documentation for these goodies [#39]! Stay tuned!!
+
+### Supported APIs
+
+The API's that are currently supported are:
+
+```
+// General
+ApplicationSettings
+BroadcastMessages
+Events
+FeatureFlags
+GeoNodes
+GitignoreTemplates
+GitLabCIYMLTemplates
+Keys
+Licence
+LicenceTemplates
+Lint
+Markdown
+Namespaces
+NotificationSettings
+PagesDomains
+Search
+SidekiqMetrics
+Snippets
+SystemHooks
+Version
+Wikis
+
+// Groups
+Groups
+GroupAccessRequests
+GroupBadges
+GroupCustomAttributes
+GroupIssueBoards
+GroupMembers
+GroupMilestones
+GroupProjects
+GroupVariables
+GroupLabels
+Epics
+EpicIssues
+EpicNotes
+EpicDiscussions
+
+// Projects
+Branches
+Commits
+CommitDiscussions
+ContainerRegistry
+DeployKeys
+Deployments
+Environments
+Issues
+IssueAwardEmojis
+IssueNotes
+IssueDiscussions
+Jobs
+Labels
+MergeRequests
+MergeRequestAwardEmojis
+MergeRequestDiscussions
+MergeRequestNotes
+Packages
+Pipelines
+PipelineSchedules
+PipelineScheduleVariables
+Projects
+ProjectAccessRequests
+ProjectBadges
+ProjectCustomAttributes
+ProjectImportExport
+ProjectIssueBoards
+ProjectHooks
+ProjectMembers
+ProjectMilestones
+ProjectSnippets
+ProjectSnippetNotes
+ProjectSnippetDiscussions
+ProjectSnippetAwardEmojis
+ProtectedBranches
+ProtectedTags
+ProjectVariables
+PushRules
+Releases
+ReleaseLinks
+Repositories
+RepositoryFiles
+Runners
+Services
+Tags
+Triggers
+
+// Users
+Users
+UserEmails
+UserImpersonationTokens
+UserKeys
+UserGPGKeys
+
+```
+
+### Bundle Imports
+
+It can be annoying to have to import all the API's pertaining to a specific resource. For example, the Projects resource is composed of many API's, Projects, Issues, Labels, MergeRequests, etc. For convenience, there is a Bundle export for importing and instantiating all these related API's at once.
+
+```javascript
+import { ProjectsBundle } from 'gitlab';
+
+const services = new ProjectsBundle({
+  host:   'http://example.com',
+  token: 'personaltoken'
+})
+
+services.Projects.all()
+services.MergeRequests.all()
+etc..
+
+```
+
+Currently there are three Bundles:
+
+1. ProjectsBundle which includes:
+
+```
+Branches
+Commits
+CommitDiscussions
+Deployments
+DeployKeys
+Environments
+Issues
+IssueNotes
+IssueDiscussions
+IssueAwardEmojis
+Jobs
+Labels
+MergeRequests
+MergeRequestAwardEmojis
+MergeRequestDiscussions
+MergeRequestNotes
+Packages
+Pipelines
+PipelineSchedules
+PipelineScheduleVariables
+Projects
+ProjectAccessRequests
+ProjectBadges
+ProjectCustomAttributes
+ProjectImportExport
+ProjectIssueBoards
+ProjectHooks
+ProjectMembers
+ProjectMilestones
+ProjectSnippets
+ProjectSnippetNotes
+ProjectSnippetDiscussions
+ProjectSnippetAwardEmojis
+ProtectedBranches
+ProtectedTags
+ProjectVariables
+PushRules
+Repositories
+RepositoryFiles
+Runners
+Services
+Tags
+Todos
+Triggers
+```
+
+2. UsersBundle which includes:
+
+```
+Users,
+UserCustomAttributes,
+UserEmails,
+UserImpersonationTokens,
+UserKeys,
+UserGPGKeys
+```
+
+3. GroupsBundle which includes:
+
+```
+Groups
+GroupAccessRequests
+GroupBadges
+GroupCustomAttributes
+GroupIssueBoards
+GroupMembers
+GroupMilestones
+GroupProjects
+GroupVariables
+GroupLabels
+Epics
+EpicIssues
+EpicNotes
+EpicDiscussions
+```
+
+### Examples
+
+Once you have your library instantiated, you can utilize many of the API's functionality:
+
+Using the await/async method
+
+```javascript
+import { Gitlab } from 'gitlab';
+
+const api = new Gitlab({
+  host: 'http://example.com',
+  token: 'personaltoken',
+});
+
+// Listing users
+let users = await api.Users.all();
+
+// Or using Promise-Then notation
+api.Projects.all().then(projects => {
+  console.log(projects);
+});
+```
+
+General rule about all the function parameters:
+
+- If its a required parameter, it is a named argument in the functions
+- If its an optional parameter, it is defined in a options object following the named arguments
+
+ie.
+
+```javascript
+import { Gitlab } from 'gitlab';
+
+const api = new Gitlab({
+  host: 'http://example.com',
+  token: 'personaltoken',
+});
+
+api.Projects.create({
+  //options defined in the Gitlab API documentation
+});
+```
+
+### Pagination
+
+For any .all() function on a resource, it will return all the items from Gitlab. This can be troublesome if there are many items, as the request it self can take a while to be fulfilled. As such, a maxPages option can be passed to limit the scope of the all function.
+
+```javascript
+import { Gitlab } from 'gitlab';
+
+const api = new Gitlab({
+  host: 'http://example.com',
+  token: 'personaltoken',
+});
+
+let projects = await api.Projects.all({ maxPages: 2 });
+```
+
+You can also use this in conjunction to the perPage argument which would override the default of 30 per page set by Gitlab:
+
+```javascript
+import { Gitlab } from 'gitlab';
+
+const api = new Gitlab({
+  host: 'http://example.com',
+  token: 'personaltoken',
+});
+
+let projects = await api.Projects.all({ maxPages: 2, perPage: 40 });
+```
+
+Additionally, if you would like to get back the pagination information, to know how many total pages there are for example, pass the pagination option `showPagination` in addition to either the
+`maxPages` or `page` properties.
+
+```javascript
+...
+const { data, pagination } = await api.Projects.all({
+  perPage:40,
+  maxPages:2,
+  showPagination: true
+});
+...
+```
+
+This will result in a response in this format:
+
+```javascript
+data: [
+...
+],
+pagination: {
+  total: 20,
+  next: 4,
+  current: 2,
+  previous: 1,
+  perPage: 3,
+  totalPages: 3,
+}
+```
+
+> Note: supplying any pagination restrictions is call intensive. Some resources will require many requests which can put a significant load on the Gitlab Server. The general best practice would be setting the page request option to only return the first page if all results are not required.
+
+### Sudo
+
+For private gitlab instances, administrators are able to impersonate users through the API. To do so, you have to set the 'Sudo' header on the services you want to impersonate the user for.
+
+For example, if you want to disable notifications for a specific user:
+
+```javascript
+import { NotificationSettings } from 'gitlab';
+
+const service = new NotificationSettings({
+  host:   'http://example.com',
+  token: 'personaltoken'
+  sudo: 8 // Can be the user ID or a username
+});
+
+await service.edit({
+  level: NotificationSettings.LEVELS.DISABLED
+})
+```
+
+### Custom Request Libraries
+
+There is another constructor parameter that allows the user to specify their own custom request library
+as long as it has a similar API to ky. To specify the library, simply set the `requester` property when
+instatiating a service:
+
+An example can be seen in the [KyRequester.ts](./src/infrastructure/KyRequester.ts) file
+
+```javascript
+import { Gitlab } from 'gitlab';
+import YourCustomRequester from 'custom-requester';
+
+const api = new Gitlab({
+  host: 'http://example.com',
+  token: 'personaltoken',
+  requester: YourCustomRequester,
+});
+```
+
+### Misc
+
+#### Handling HTTPS certificates
+
+If your Gitlab server is running via HTTPS, the proper way to pass in your certificates is via a `NODE_EXTRA_CA_CERTS` environment key, like this:
+
+```js
+"scripts": {
+    "start": "NODE_EXTRA_CA_CERTS=./secrets/3ShapeCA.pem node bot.js"
+},
+```
+
+> **NOTE**: _Using `process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'` will not work with the `gitlab` library. The `rejectUnauthorized` key is the only way to allow insecure certificates to be bypassed._
+
+#### Non JSON/Text Responses
+
+For responses such as file data that may be returned from the API, the data is exposed as a buffer. For example when trying to write a file, this can be done like:
+
+```javascript
+let bufferedData = await api.Jobs.downloadLatestArtifactFile(project.id, "test", "job_test);
+
+fs.writeFileSync("test.zip", bufferedData);
+
+```
+
+## Development
+
+To get this running locally rather than from your `node_modules` folder:
+
+```bash
+$ git clone https://github.com/jdalrymple/node-gitlab.git
+$ cd node-gitlab
+$ npm install
+$ npm run-script build
+```
+
+And then inside whatever project you are using `node-gitlab` in you change your references to use that repo. In your package.json of that upstream project change:
+
+```json
+"dependencies": {
+  "gitlab": "5.0.0"
+}
+```
+
+to this
+
+```json
+"dependencies": {
+  "gitlab": "<path-to-your-clone>"
+}
+```
+
+## Testing
+
+Testing is a work-in-progress right now but here is the start.
+
+1. First run Gitlab in a docker container:
+
+```bash
+docker-compose -f docker-compose.test.yml up
+```
+
+1. Once GitLab is up on localhost:8080, get the two environment variables from the docker image could
+   either export them into environment variables locally:
+
+```bash
+export PERSONAL_ACCESS_TOKEN=$(docker exec -it gitlab bash -lc 'printf "%q" "${PERSONAL_ACCESS_TOKEN}"')
+export GITLAB_URL=$(docker exec -it gitlab bash -lc 'printf "%q" "${GITLAB_URL}"')
+```
+
+1. Now run the tests
+
+```bash
+npm run test
+
+# or, alternatively
+npm run test-with-token # sets PERSONAL_ACCESS_TOKEN and GITLAB_URL from above, before running tests
+```
+
+You can also define them in front of the npm script
+
+```
+PERSONAL_ACCESS_TOKEN='abcdefg' GITLAB_URL='http://localhost:8080' npm run test
+```
+
+> Note it may take about 3 minutes to get the variables while Gitlab is starting up in the container
+
+## Contributors
+
+This started off as a fork from [node-gitlab](https://github.com/node-gitlab/node-gitlab) but I ended up rewriting much of the code. Here are the original work's [contributors](https://github.com/node-gitlab/node-gitlab#contributors).
+
+- [Dylan DesRosier](https://github.com/ddesrosier)
+- [Mike Wyatt](https://github.com/mikew)
+- [Cory Zibeill](https://github.com/coryzibell)
+- [Martin Bour](https://github.com/shadygrove)
+- [Christoph Lehmann](https://github.com/christophlehmann)
+- [Frank V](https://github.com/FrankV01)
+- [Salim Benabbou](https://github.com/Salimlou)
+- [Tamás Török-Vistai](https://github.com/tvtamas)
+- [Martin Benninger](https://github.com/MartinBenninger)
+- [Adam Dehnel](https://github.com/arsdehnel)
+- [fewieden](https://github.com/fewieden)
+- [Jeff Pelton](https://github.com/comster)
+- [Claude Abounegm](https://github.com/claude-abounegm)
+- [Stefan Hall](https://github.com/Marethyu1)
+- [Jordan Wallet](https://github.com/Mr-Wallet)
+- [Ev Haus](https://github.com/EvHaus)
+- [zhao0](https://github.com/zhao0)
+- [Joshua Grosso](https://github.com/jgrosso)
+- [Frédéric Boutin](https://github.com/fboutin-pmc)
+- [Isaac Ouellet Therrien](https://github.com/yonguelink)
+- [Pavel Birukov](https://github.com/pablobirukov)
+- [Sharma-Rajat](https://github.com/Sharma-Rajat)
+- [Joseph Petersen](https://github.com/casz)
+- [Igor Katsuba](https://github.com/IKatsuba)
+- [Giuseppe Angri](https://github.com/giuseppeangri)
+- [Michael Townsend](https://github.com/Continuities)
+- [bodtx](https://github.com/bodtx)
+- [Artem](https://github.com/arthot)
+- [Munif Tanjim](https://github.com/MunifTanjim)
+- [Max Wittig](https://github.com/max-wittig)
+- [Quentin Dreyer](https://github.com/qkdreyer)
+- [Norm MacLennan](https://github.com/maclennann)
+- [jnovick](https://github.com/jnovick)
+- [Fabian Aussems](https://github.com/mozinator)
+- [jennparise](https://github.com/jennparise)
+- [Michael Matzka](https://github.com/mimaidms)
+- [CraigAllardyce](https://github.com/CraigAllardyce)
+- [Bruno Guimarães](https://github.com/brunobastosg)
+- [Louis Cherel](https://github.com/Musinux)
+- [Lukas Eipert](https://github.com/leipert)
+- [Maximilian Krauß](https://github.com/maximilian-krauss)
+- [Evolution Gaming](https://github.com/evolution-gaming)
+- [WEBER Logan](https://github.com/Neonox31)
+- [Anton Zhukov](https://github.com/MrCheater)
+- [Nic Loomans](https://github.com/beaverusiv)
+- [Jennifer Everhart]()
+- [Carl Kittelberger](https://github.com/icedream)
+- [Patrik Votoček](https://github.com/Vrtak-CZ)
+- [Kyrylo Fedorov](https://github.com/Kyr)
+- [Claudio Vellage](https://github.com/jdalrymple/LRH539)
+- [Seb0uil](https://github.com/seb0uil)
+
+## License
+
+[MIT](https://github.com/jdalrymple/node-gitlab/blob/master/LICENSE.md)
+
+## Changelog
+
+[Here](https://github.com/jdalrymple/node-gitlab/blob/master/CHANGELOG.md)
